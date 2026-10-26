@@ -151,10 +151,10 @@ import { meta_description, meta_title, meta_url } from "$lib/config";
 	<Row class="mt-2 g-2">
 		{#each [
 			"Excellence in Healthcare Award — Health 2.0 Conference (2025)",
+			"NIH/NIAAA Young Investigator Award — International Symposium for Hepatic Sinusoidal Research",
 			"Fluxx Award — Scientific Contribution to Data-Driven Healthcare (2025)",
 			"Top Biotech Leader — InsightSuccess Magazine (2025)",
-			"Women Leaders in Biotechnology — Empire Magazine (2025)",
-			"NIH/NIAAA Young Investigator Award — International Symposium for Hepatic Sinusoidal Research"
+			"Women Leaders in Biotechnology — Empire Magazine (2025)"
 		] as award}
 			<Col md={6}>
 				<div class="award-card">
