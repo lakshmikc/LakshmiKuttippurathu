@@ -105,7 +105,7 @@ import { meta_description, meta_title, meta_url } from "$lib/config";
 				<div style="font-size:0.75rem; font-weight:600; color:var(--teal); text-transform:uppercase; letter-spacing:0.05em; margin-bottom:6px;">Co-Founder</div>
 				<div style="font-weight:600; margin-bottom:4px;"><a href="" target="_blank" style="text-decoration:none; color:var(--ink);">Janma Bio</a></div>
 				<div style="font-size:0.82rem; color:var(--muted);">2026 – Present</div>
-				<p style="font-size:0.85rem; color:var(--ink-mid); margin-top:8px; margin-bottom:0;">Leading scientific strategy, computational biology, and data-driven decision-making for a cardiometabolic drug discovery platform.</p>
+				<p style="font-size:0.85rem; color:var(--ink-mid); margin-top:8px; margin-bottom:0;">Leading scientific strategy, computational biology, and data-driven decision-making for a Womens Health digital discovery inititative.</p>
 			</div>
 		</Col>
 		<Col md={4}>
