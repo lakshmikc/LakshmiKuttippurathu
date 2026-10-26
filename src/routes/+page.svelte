@@ -22,9 +22,9 @@ import { meta_description, meta_title, meta_url } from "$lib/config";
 		<h4 class="mb-1" style="font-family:var(--font-serif);">Lakshmi Kuttippurathu, PhD</h4>
 		<p class="mb-2 text-muted" style="font-size:0.9rem;">Boston, MA · <a href="mailto:lakshmikc@gmail.com">lakshmikc@gmail.com</a> · <a href="https://www.linkedin.com/in/lakshmikc" target="_blank">LinkedIn</a> · <a href="https://github.com/lakshmikc" target="_blank">GitHub</a></p>
 		<div>
-			<span class="chip">Co-Founder · Encure Biotherapeutics</span>
+			<span class="chip">Co-Founder · Janma Bio</span>
 			<span class="chip">SAB · Bioscope AI</span>
-			<span class="chip">ML Advisor · Melior Discovery</span>
+			<span class="chip">Advisor/Consultant </span>
 		</div>
 	</div>
 </div>
@@ -103,7 +103,7 @@ import { meta_description, meta_title, meta_url } from "$lib/config";
 		<Col md={4}>
 			<div style="background:#fff; border:1px solid var(--border); border-radius:8px; padding:16px; height:100%;">
 				<div style="font-size:0.75rem; font-weight:600; color:var(--teal); text-transform:uppercase; letter-spacing:0.05em; margin-bottom:6px;">Co-Founder</div>
-				<div style="font-weight:600; margin-bottom:4px;"><a href="https://ensurebio.com" target="_blank" style="text-decoration:none; color:var(--ink);">Encure Biotherapeutics</a></div>
+				<div style="font-weight:600; margin-bottom:4px;"><a href="" target="_blank" style="text-decoration:none; color:var(--ink);">Janma Bio</a></div>
 				<div style="font-size:0.82rem; color:var(--muted);">2026 – Present</div>
 				<p style="font-size:0.85rem; color:var(--ink-mid); margin-top:8px; margin-bottom:0;">Leading scientific strategy, computational biology, and data-driven decision-making for a cardiometabolic drug discovery platform.</p>
 			</div>
