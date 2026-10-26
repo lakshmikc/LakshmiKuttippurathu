@@ -122,9 +122,9 @@ import { meta_description, meta_title, meta_url } from "$lib/config";
 		<Col md={4}>
 			<div style="background:#fff; border:1px solid var(--border); border-radius:8px; padding:16px; height:100%;">
 				<div style="font-size:0.75rem; font-weight:600; color:var(--teal); text-transform:uppercase; letter-spacing:0.05em; margin-bottom:6px;">ML Advisor</div>
-				<div style="font-weight:600; margin-bottom:4px;">Melior Discovery</div>
+				<div style="font-weight:600; margin-bottom:4px;">Multiple Organizations</div>
 				<div style="font-size:0.82rem; color:var(--muted);">2025 – Present</div>
-				<p style="font-size:0.85rem; color:var(--ink-mid); margin-top:8px; margin-bottom:0;">Leading ML strategy for modeling experimental variability in preclinical disease models to improve reproducibility and statistical power.</p>
+				<p style="font-size:0.85rem; color:var(--ink-mid); margin-top:8px; margin-bottom:0;">Leading Strategy for computational biology engagements supporting multiple biotech/pharma teams.</p>
 			</div>
 		</Col>
 	</Row>
