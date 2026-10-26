@@ -35,8 +35,11 @@ import { meta_description, meta_title, meta_url } from "$lib/config";
 	<h5 style="font-family:var(--font-serif); color:var(--teal);">About</h5>
 	<p style="max-width: 720px; color: var(--ink-mid);">
 -  Physicist turned computational biology and translational AI leader with 15+ years of experience across academia, biotech, and early-stage company building. 
+ </p>
 -	I partner with biotech and pharma teams at critical points in their R&D journey  providing fractional computational biology leadership, shaping discovery and portfolio strategy, and helping teams turn complex multi-omics, genetic, and phenotypic data into clearer scientific and investment decisions.
+</p>
 -	My experience spans target discovery, platform development, precision medicine, and translational research across cardiometabolic disease, cardiovascular disease, and neuroscience. I have built and led computational platforms, developed AI/ML-enabled discovery strategies, and worked across scientific and organizational boundaries to move programs from data and hypotheses toward actionable R&D decisions.
+</p>
 - I help build AI-driven platforms that convert complex multi-omics, phenotypic, and clinical datasets into decisions that shape drug programs and investment strategy — from early discovery through preclinical development.
 	</p>
 	<p style="max-width: 720px; color: var(--ink-mid);">
